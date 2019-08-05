@@ -1,0 +1,92 @@
+@media (min-width: 992px) and (max-width: 1366px) {
+
+    #block2 .darckBlock2 h2::after,
+    #block2 .darckBlock2+.container h2:after {
+
+        right: 31%;
+    }
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    #block1 .aboutPhone h2,
+    #block1 .block2 h2,
+    #block2 .darckBlock2 h2,
+    #block2 .darckBlock2+.container h2,
+    .reviews h2 {
+        font-size: 28px;
+        line-height: 30px;
+        font-weight: 700;
+    }
+
+    #block1 .aboutPhone h3 {
+        font-size: 24px;
+        line-height: 25px;
+        padding-top: 20px;
+    }
+
+    #block1 .block2 {
+        margin-top: 0;
+    }
+
+    #block2 .darckBlock2 h2::after,
+    #block2 .darckBlock2+.container h2:after {
+        top: 75%;
+        right: 25%;
+    }
+
+    #block2 .darckBlock2+.container h2:after {
+        top: 125%;
+    }
+
+    #block2 .block2ArticleBlock .card .card-body h5::after {
+        right: 29%;
+    }
+}
+
+@media (min-width: 250px) and (max-width: 767.98px) {
+
+    header .banerHeader .baner h1 {
+        font-size: 33px;
+        color: #fff;
+        line-height: 40px;
+        padding: 95px 0px;
+
+    }
+
+    #block1 .block2 {
+        margin-top: -25px;
+    }
+
+    #block1 .aboutPhone {
+        padding: 0;
+        margin-left: 15px;
+    }
+
+    #block1 .aboutPhone h2,
+    #block1 .block2 h2,
+    #block2 .darckBlock2 h2,
+    #block2 .darckBlock2+.container h2,
+    .reviews h2 {
+        font-size: 28px;
+        line-height: 30px;
+        font-weight: 700;
+    }
+
+    #block1 .aboutPhone h3 {
+        font-size: 24px;
+        line-height: 25px;
+        padding-top: 20px;
+    }
+
+    #block2 .darckBlock2 h2::after {
+        right: -7%;
+    }
+
+    #block2 .darckBlock2+.container h2:after {
+        top: 102%;
+        right: -1%;
+    }
+}

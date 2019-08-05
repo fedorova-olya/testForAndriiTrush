@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","sources":["style.scss"],"sourcesContent":["body {\r\n    background: purple;\r\n\r\n    p {\r\n        color: #fff;\r\n    }\r\n}"],"names":[],"mappings":"AAAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,MAAM,GAKrB;EAND,AAGI,IAHA,CAGA,CAAC,CAAC;IACE,KAAK,EAAE,IAAI,GACd"}
